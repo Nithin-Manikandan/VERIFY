@@ -1,0 +1,182 @@
+[
+  {
+    "id": "scam-001",
+    "type": "package",
+    "isScam": true,
+    "message": "From: UPS Delivery <noreply@ups-tracking-services.com>\nSubject: Delivery Attempt Failed - Action Required\n\nWe attempted to deliver your package (1Z999AA10123456784) but requires signature. Package held at facility. Reschedule within 24hrs or return to sender: https://bit.ly/ups-reschedule-abc\nCall: 1-800-555-0123"
+  },
+  {
+    "id": "scam-002",
+    "type": "package",
+    "isScam": true,
+    "message": "FedEx: Your package is on hold. Confirm address: fedex-delivery-update.xyz/confirm?id=123. Expires in 2 hours. Call 1-888-555-0199"
+  },
+  {
+    "id": "scam-003",
+    "type": "bank",
+    "isScam": true,
+    "message": "BANK OF AMERICA SECURITY ALERT: Unusual login from Nigeria detected. Account will be closed in 1 hour. Verify now: https://bofa-verify.ml/secure. Provide SSN, card, password. Call 1-800-555-0147"
+  },
+  {
+    "id": "scam-004",
+    "type": "bank",
+    "isScam": true,
+    "message": "Chase Fraud Dept: Your card ending 4829 was used for $2,499 at Best Buy Moscow. Not you? Call 1-888-555-0199 IMMEDIATELY or visit chase-fraud-alert.tk/block"
+  },
+  {
+    "id": "scam-005",
+    "type": "romance",
+    "isScam": true,
+    "message": "Hey beautiful! I'm David, a civil engineer working on an oil rig in the North Sea. My contract ends soon and I want to come meet you. But my bank card got blocked. Can you help with $3,000 for my flight? I'll pay you back double when I arrive. Western Union to David Miller, Aberdeen, UK."
+  },
+  {
+    "id": "scam-006",
+    "type": "romance",
+    "isScam": true,
+    "message": "I love you so much! But I'm stuck in Turkey with customs issues. Need $5,000 to clear my goods and come to you. Send via MoneyGram to Ahmet Yilmaz, Istanbul. I promise marriage when I arrive. Please hurry, I'm desperate."
+  },
+  {
+    "id": "scam-007",
+    "type": "grandparent",
+    "isScam": true,
+    "message": "Grandma it's me Sarah! I'm in jail in Canada after a car accident. Need $4,000 bail money TODAY. Don't tell my parents! Lawyer says wire transfer to John Smith, Toronto. Call +1-416-555-0123. Please help I'm so scared!"
+  },
+  {
+    "id": "scam-008",
+    "type": "grandparent",
+    "isScam": true,
+    "message": "Hi Grandpa, it's Mike. Emergency - I'm in hospital in Mexico, need $6,000 for surgery. Insurance won't cover it. Send Western Union to Carlos Rodriguez, Cancun. Don't call my parents, they'll worry. Call this number +52-998-555-0199"
+  },
+  {
+    "id": "scam-009",
+    "type": "tech-support",
+    "isScam": true,
+    "message": "WINDOWS DEFENDER ALERT: Zeus virus detected! Error 0x80072EE7. Data being stolen. DO NOT RESTART. Call Microsoft Support: 1-800-555-0199. Certified technician will fix remotely. Covered by your license. 15 minutes or hard drive formatted."
+  },
+  {
+    "id": "scam-010",
+    "type": "tech-support",
+    "isScam": true,
+    "message": "APPLE SECURITY WARNING: Your iCloud has been breached! Hackers have your photos and passwords. Call Apple Care NOW: 1-800-555-0188. Visit apple-security-verify.cf/scan to secure your account. Expires in 10 minutes."
+  },
+  {
+    "id": "scam-011",
+    "type": "job",
+    "isScam": true,
+    "message": "Congratulations! You're hired as Remote Data Entry Specialist at Google. $45/hr, work from home. Start immediately. First, buy equipment: $2,500 MacBook Pro from our vendor apple-equipment-store.xyz. We'll reimburse via check. Send resume to hr@google-jobs-remote.ml"
+  },
+  {
+    "id": "scam-012",
+    "type": "job",
+    "isScam": true,
+    "message": "Amazon Work From Home: $38/hr packaging orders. No experience needed. Immediate start. Deposit $199 for background check and training materials at amazon-careers-online.tk/pay. HR Contact: jobs@amazon-wfh-verify.ga"
+  },
+  {
+    "id": "scam-013",
+    "type": "crypto",
+    "isScam": true,
+    "message": "Elon Musk Bitcoin Giveaway! Send 0.1 BTC to 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa and receive 1 BTC back instantly! Limited to first 1000 participants. Verify at tesla-crypto-promo.xyz. Ends in 30 minutes!"
+  },
+  {
+    "id": "scam-014",
+    "type": "crypto",
+    "isScam": true,
+    "message": "Coinbase Security: Your wallet was compromised. Transfer all funds to safe wallet: 0x742d35Cc6634C0532925a3b844Bc9e7595f8fEb7 within 1 hour or lose everything. Login at coinbase-security-verify.ml to authorize."
+  },
+  {
+    "id": "scam-015",
+    "type": "prize",
+    "isScam": true,
+    "message": "CONGRATULATIONS! You won the $1,000,000 Publishers Clearing House Sweepstakes! Claim your prize: pay $299 processing fee via gift cards. Call 1-800-555-0177. Visit pch-winners-claim.xyz/claim?id=WINNER123"
+  },
+  {
+    "id": "scam-016",
+    "type": "prize",
+    "isScam": true,
+    "message": "You've won a $500 Walmart Gift Card! Click to claim: walmart-rewards-prize.tk/claim?code=WALMART500. Expires in 1 hour. Limited quantities!"
+  },
+  {
+    "id": "scam-017",
+    "type": "government",
+    "isScam": true,
+    "message": "IRS LAWSUIT: You owe $14,527 in back taxes. Warrant issued for arrest. Pay immediately via Google Play cards ($500 x 30) or Bitcoin to avoid jail. Call IRS Agent Johnson: 1-800-555-0166. Visit irs-tax-lawsuit.ga/pay"
+  },
+  {
+    "id": "scam-018",
+    "type": "government",
+    "isScam": true,
+    "message": "Social Security Administration: Your SSN has been suspended due to fraud. Call 1-800-555-0155 IMMEDIATELY to reactivate. Provide SSN, DOB, bank info. Visit ssa-verify-account.ml/reactivate"
+  },
+  {
+    "id": "scam-019",
+    "type": "other",
+    "isScam": true,
+    "message": "Geek Squad Renewal: Your $399.99 auto-renewal processed. If unauthorized, call 1-800-555-0133 within 2 hours for refund. Visit geeksquad-billing-verify.xyz/refund"
+  },
+  {
+    "id": "scam-020",
+    "type": "other",
+    "isScam": true,
+    "message": "Netflix Account Suspended: Payment failed. Update billing at netflix-billing-update.cf/update or lose access. Enter full card details, SSN for verification."
+  },
+  {
+    "id": "legit-001",
+    "type": "package",
+    "isScam": false,
+    "message": "Your Amazon order #112-3456789-1234567 has shipped! Track your package: https://www.amazon.com/progress/112-3456789-1234567. Expected delivery: Oct 15 by 8pm. Carrier: Amazon Logistics."
+  },
+  {
+    "id": "legit-002",
+    "type": "package",
+    "isScam": false,
+    "message": "UPS Update: Your package 1Z999AA10123456784 is out for delivery today. Track: https://www.ups.com/track?tracknum=1Z999AA10123456784. Delivery window: 10am-2pm. Driver: John D."
+  },
+  {
+    "id": "legit-003",
+    "type": "bank",
+    "isScam": false,
+    "message": "Chase: Your monthly statement is ready. View at https://www.chase.com/statements. Balance: $2,341.56. No action needed. Questions? Call 1-800-935-9935 or visit chase.com"
+  },
+  {
+    "id": "legit-004",
+    "type": "bank",
+    "isScam": false,
+    "message": "Bank of America: Alert - Purchase of $45.67 at Starbucks #12345 on Oct 10 2:15pm. If unauthorized, call 1-800-432-1000. Check activity at bankofamerica.com"
+  },
+  {
+    "id": "legit-005",
+    "type": "other",
+    "isScam": false,
+    "message": "Appointment Reminder: Dr. Smith, Cardiology - Oct 15, 2:30pm at 123 Medical Plaza, Suite 400. Reply YES to confirm or call 555-0199 to reschedule. Kaiser Permanente."
+  },
+  {
+    "id": "legit-006",
+    "type": "other",
+    "isScam": false,
+    "message": "Your prescription for Lisinopril 10mg is ready for pickup at CVS Pharmacy, 456 Main St. Ready after 2pm Oct 11. Questions? Call 555-0188."
+  },
+  {
+    "id": "legit-007",
+    "type": "package",
+    "isScam": false,
+    "message": "FedEx: Delivery scheduled for Oct 12, 9am-1pm. Tracking: 777888999000. Track at fedex.com/track. Signature required. Call 1-800-463-3339 for changes."
+  },
+  {
+    "id": "legit-008",
+    "type": "bank",
+    "isScam": false,
+    "message": "Wells Fargo: Your direct deposit of $3,450.00 from ACME CORP has posted. Available balance: $5,678.90. View details at wellsfargo.com. Member FDIC."
+  },
+  {
+    "id": "legit-009",
+    "type": "other",
+    "isScam": false,
+    "message": "Your Verizon bill of $87.42 is due Oct 20. Pay at verizon.com or autopay. Account ending in 1234. Questions? Dial *611 from your Verizon phone."
+  },
+  {
+    "id": "legit-010",
+    "type": "other",
+    "isScam": false,
+    "message": "Delta Flight DL1234 Confirmation: ATL to LAX, Oct 20, 7:00am. Seat 14A. Check in at delta.com. Confirmation: ABC123. Baggage: 1 free carry-on."
+  }
+]

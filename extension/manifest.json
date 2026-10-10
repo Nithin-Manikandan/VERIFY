@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "VERIFY Gmail Guard",
+  "version": "0.1.2",
+  "description": "Flag risky Gmail inbox previews, pause suspicious messages and links, and sync alerts to your VERIFY dashboard.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://verify-scam-investigator.randomdude15.chatgpt.site/*"],
+  "content_scripts": [{
+    "matches": ["https://mail.google.com/*"],
+    "js": ["scanner.js", "content.js"],
+    "css": ["content.css"],
+    "run_at": "document_idle"
+  }],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_popup": "popup.html", "default_title": "VERIFY Gmail Guard"},
+  "icons": {"16":"icons/16.png", "48":"icons/48.png", "128":"icons/128.png"}
+}
